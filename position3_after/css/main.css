@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.header{
+	border-bottom:3px solid #fff;
+	max-width: 980px;
+	margin:50px auto;
+	position:relative;
+}
+.header h1, .header > p{
+	text-align: center;
+}
+.logo{
+	position:absolute;
+	left:100px;
+	top:50%;
+	margin-top:-38px;
+}
+.wrap{
+	max-width: 980px;
+	margin:0 auto;
+}
+.box1{
+	position:fixed;
+	top:160px;
+	background-color: rgba(0,0,225,0.65);
+	width:240px;
+	height:200px;
+	margin-left:0;
+}

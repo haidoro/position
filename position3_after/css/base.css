@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+* {
+  color: #fff;
+  text-shadow: 1px 1px 0 #000;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;;
+}
+
+html {
+  background: linear-gradient(-10deg, #374EC9, #44BAC8);
+  min-height: 100vh;
+  font-size: 22px;
+}
+
+body,h1,p {
+  margin:0;
+  padding:0;
+}
+.box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8,.box9,.box10{
+	padding:30px;
+  margin:30px;
+  margin-left:340px;
+	text-align: center;
+	border:1px solid #fff;
+	background-color: rgba(255,255,255,0.25);
+}

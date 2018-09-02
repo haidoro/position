@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.header{
+	border-bottom:3px solid #fff;
+	max-width: 980px;
+	margin:auto;
+}
+.header h1, .header > p{
+	text-align: center;
+}
+.logo{
+	
+}
